@@ -1,6 +1,6 @@
 # 🎉 Welcome to My GitHub Space! 🎉
 
-Hello there! I'm a passionate **C++/Python developer** and **digital artist** from Russia, with over **5 years of experience** in programming. My journey in the tech and digital art world has been filled with learning, creating, and collaborating.
+Hello there! I'm a passionate **C++ developer** and **digital artist** from Russia, with over **5 years of experience** in programming. My journey in the tech and digital art world has been filled with learning, creating, and collaborating.
 
 ## 🤝 Connect With Me
 
