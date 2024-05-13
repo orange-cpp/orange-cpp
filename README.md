@@ -21,5 +21,5 @@ To ensure productive and engaging conversations, please consider the following:
 - **Stay Online**: If you message me, try to stay online for a bit, so we can have a real-time conversation.
 - **Meaningful Chats**: Let's keep our exchanges coherent and purposeful.
 
-Thank you for visiting my GitHub profile. I'm excited to connect, share, and grow with you in this amazing digital ecosystem. Let's code, create, and collaborate!
-
+## 🍊 Manifest
+Developing cheats isn't about WHY. It's about WHY NOT. Why cheat development is so bad? Why not marry good programs if you love them so much. In fact, why not develop a special safety door that won't hit you on the butt on the way out, because you are banned! 
