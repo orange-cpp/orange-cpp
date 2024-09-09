@@ -1,5 +1,6 @@
 # 🎉 Welcome to My GitHub Space! 🎉
 [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Forange_cpp&logo=leetcode&logoColor=yellow)](https://leetcode.com/orange_cpp/)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Hello there! I'm a passionate **C++ developer** and **digital artist** from Russia, with over **5 years of experience** in programming. My journey in the tech and digital art world has been filled with learning, creating, and collaborating.
 
