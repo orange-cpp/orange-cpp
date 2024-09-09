@@ -6,6 +6,7 @@ Hello there! I'm a passionate **C++ developer** and **digital artist** from Russ
 ## 🤝 Connect With Me
 [<img alt="Orange++ | Telegram" width="27px" src="https://cdn.simpleicons.org/telegram" />](https://t.me/orange_cpp)
 [<img alt="Orange++ | Discord" width="27px" src="https://cdn.simpleicons.org/discord" />](https://discordapp.com/users/566653752451399700)
+[<img alt="Orange++ | Signal" width="27px" src="https://cdn.simpleicons.org/signal" />](https://signal.me/#eu/tyeBirr07rcOGNMOeFKzU7SQGijxFwwpdji-CPzYH_hu0RcvOLhK-a_0BOAMzksT)
 
 If you're curious about **C++** or have any questions, feel free to drop me a message. I'm always eager to help and share my knowledge. However, I'd like to note a few things:
 
