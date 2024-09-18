@@ -32,5 +32,7 @@ If you love my projects, donate to my XMR wallet. Also if you dont want to spend
 
 <img alt="Orange++ | XMR" width="20px" src="https://cdn.simpleicons.org/monero" /> 42F1YSW1hKv9fg6CM7sEbiSscuafMSUw5LFBUgHkavHGbAUZ5apr2TMTMdk9HdScAF8t68FUuTvDw6u9bg6xmSmUEQEPkPE
 
+<img alt="Orange++ | USDT" width="20px" src="https://cdn.simpleicons.org/tether" /> TM3fFZHrLwMsqvsd36jzxVU3tZNZbcrN7B
+
 ## 🍊 Manifest
 Developing cheats isn't about WHY. It's about WHY NOT. Why cheat development is so bad? Why not marry good programs if you love them so much. In fact, why not develop a special safety door that won't hit you on the butt on the way out, because you are banned! 
