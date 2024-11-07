@@ -3,7 +3,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-Hello there! I'm a passionate **C++ developer** and **digital artist** from Russia, with over **5 years of experience** in programming. My journey in the tech and digital art world has been filled with learning, creating, and collaborating.
+Hello there! I'm a passionate **C++ developer** from Russia, with over **5 years of experience** in programming and reverse engineering. My journey in the tech has been filled with learning, creating, and collaborating.
 
 ## 🤝 Connect With Me
 [<img alt="Orange++ | Telegram" width="27px" src="https://cdn.simpleicons.org/telegram" />](https://t.me/orange_cpp)
