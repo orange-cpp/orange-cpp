@@ -7,7 +7,6 @@ Hello there! I'm a passionate **C++ developer** from Russia, with over **5 years
 
 ## 🤝 Connect With Me
 [<img alt="Orange++ | Telegram" width="27px" src="https://cdn.simpleicons.org/telegram" />](https://t.me/orange_cpp)
-[<img alt="Orange++ | Discord" width="27px" src="https://cdn.simpleicons.org/discord" />](https://discordapp.com/users/566653752451399700)
 [<img alt="Orange++ | Signal" width="27px" src="https://cdn.simpleicons.org/signal" />](https://signal.me/#eu/tyeBirr07rcOGNMOeFKzU7SQGijxFwwpdji-CPzYH_hu0RcvOLhK-a_0BOAMzksT)
 [<img alt="Orange++ | YouTube" width="27px" src="https://cdn.simpleicons.org/youtube" />](https://www.youtube.com/@orange_cpp)
 
